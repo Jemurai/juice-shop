@@ -48,6 +48,11 @@ overview please visit the official project page:
 > DDoS attacks you are free to use any tools or scripts to hack your
 > Juice Shop instance on Heroku!
 
+You can also deploy a Capture the Flag (CTF) ready version of Juice Shop by clicking
+the button below.
+
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?env[NODE_ENV]=ctf)
+
 ### From Sources
 
 ![GitHub repo size](https://img.shields.io/github/repo-size/bkimminich/juice-shop.svg)

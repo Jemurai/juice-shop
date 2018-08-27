@@ -16,5 +16,10 @@
     "vulnerability",
     "broken",
     "bodgeit"
-  ]
+  ],
+  "env": {
+    "NODE_ENV": {
+      "value": "production"
+    }
+  }
 }
