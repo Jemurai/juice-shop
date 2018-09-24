@@ -4,6 +4,7 @@
 
 1. [Firefox Developer Edition](https://www.mozilla.org/en-US/firefox/developer/)
 1. [Burp Suite Community Edition](https://portswigger.net/burp/communitydownload)
+1. [Direct Download Burp Suite](https://drive.google.com/a/jemurai.com/uc?id=1qWKxaBxrAXrB7uxKR0FsXaBMHpF293a8&export=download)
 
 ## Setup Juice Shop
 
